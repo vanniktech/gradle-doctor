@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://runningcode.github.io/fladle/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://runningcode.github.io/fladle/java-home/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://runningcode.github.io/fladle/configuration/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://runningcode.github.io/fladle/changelog/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://runningcode.github.io/fladle/remote-cache/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://runningcode.github.io/fladle/slower-from-cache/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://runningcode.github.io/fladle/scan-tags/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://runningcode.github.io/fladle/releasing/</loc>
+     <lastmod>2020-09-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
